@@ -6,6 +6,14 @@ Blogify
 
 Blogify is a backend application designed to support the creation and commenting of blogs. It provides a robust framework for managing blog content, user authentication, and comment functionality.
 
+
+**Prerequisites:**
+In order to run this project, you will need to have the following installed on your computer:
+nodejs
+npm 
+A running instance of MongoDB for database storage.
+
+
 **Installation:**
 
 1. Clone the repository: `git clone https://github.com/your-username/Blogify.git`
